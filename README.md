@@ -65,6 +65,17 @@ The IPL Live Score Dashboard is a data visualization tool that provides real-tim
 ##### Live Score
 ![image](https://github.com/mohsinroyal24/-IPL-Live-Score-Dashboard-/assets/68188173/0715f9f1-847b-4eb9-97b8-bc99ef312058)
 
+##### Point Table
+![image](https://github.com/mohsinroyal24/-IPL-Live-Score-Dashboard-/assets/68188173/0c3e1dc0-116f-4e5e-bf64-dd1919501475)
+
+##### Points Table Upcoming Matches
+![image](https://github.com/mohsinroyal24/-IPL-Live-Score-Dashboard-/assets/68188173/3bdd5c4c-8b9c-4133-8ead-43262b8a95f9)
+
+##### Tooltip
+![image](https://github.com/mohsinroyal24/-IPL-Live-Score-Dashboard-/assets/68188173/46c2c550-7134-4f14-894f-0b51155e2e85)
+
+
+
 
 ### Conclusion:
 The IPL Live Score Dashboard project demonstrated proficiency in data integration, transformation, visualization, and dashboard creation. It provided valuable insights into IPL matches and teams' performances, with scope for further enhancements to enrich user experience and analytical capabilities.
