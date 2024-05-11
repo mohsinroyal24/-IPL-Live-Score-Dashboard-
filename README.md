@@ -59,5 +59,12 @@ The IPL Live Score Dashboard is a data visualization tool that provides real-tim
 4. **Dashboard Design:** Acquired skills in designing visually appealing and informative dashboards using Power BI.
 5. **Bug Fixing:** Improved troubleshooting skills by identifying and resolving bugs in the dashboard.
 
+
+### Screenshots
+
+##### Live Score
+![image](https://github.com/mohsinroyal24/-IPL-Live-Score-Dashboard-/assets/68188173/0715f9f1-847b-4eb9-97b8-bc99ef312058)
+
+
 ### Conclusion:
 The IPL Live Score Dashboard project demonstrated proficiency in data integration, transformation, visualization, and dashboard creation. It provided valuable insights into IPL matches and teams' performances, with scope for further enhancements to enrich user experience and analytical capabilities.
